@@ -1,11 +1,6 @@
-
 ---
-title: "Your Project Name"
-github: "your repo"
-description: "Describe your project in a short sentence!"
-created_at: "2026-03-20"
+title: "stm dev board"
 ---
-
 
 # aug 24 schematic 
 
@@ -27,4 +22,4 @@ created_at: "2026-03-20"
 <img width="810" height="646" alt="Screenshot from 2026-08-24 16-32-05" src="https://github.com/user-attachments/assets/e26ce89a-b897-4a38-abc4-000b475d2811" />
 <img width="715" height="434" alt="Screenshot from 2026-08-24 16-30-18" src="https://github.com/user-attachments/assets/2c90cb8a-5381-41e3-a7d8-7280893daa69" />
 
-**Total time spent: 4h**
+**Total time spent: 5h**
