@@ -21,5 +21,6 @@ title: "stm dev board"
 <img width="265" height="280" alt="Screenshot from 2026-08-24 16-33-19" src="https://github.com/user-attachments/assets/73b4c6c7-7f0d-49e2-89cf-15abc7d8fd5d" />
 <img width="810" height="646" alt="Screenshot from 2026-08-24 16-32-05" src="https://github.com/user-attachments/assets/e26ce89a-b897-4a38-abc4-000b475d2811" />
 <img width="715" height="434" alt="Screenshot from 2026-08-24 16-30-18" src="https://github.com/user-attachments/assets/2c90cb8a-5381-41e3-a7d8-7280893daa69" />
+<img width="842" height="657" alt="image" src="https://github.com/user-attachments/assets/5c49158e-30bf-492a-9c45-0799c2080480" />
 
 **Total time spent: 5h**
