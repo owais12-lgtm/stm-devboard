@@ -24,3 +24,25 @@ title: "stm dev board"
 <img width="842" height="657" alt="image" src="https://github.com/user-attachments/assets/5c49158e-30bf-492a-9c45-0799c2080480" />
 
 **Total time spent: 5h**
+
+
+
+# aug 24 routing v1 
+
+-> i imported all the footprints i needed cuz kicad dident have many of them, i also tried to find 3d models but i couldnt figure out how to import them. 
+
+-> i figured out the placement of all components so it could be really thin and yet still somehow work and not make routing hell
+
+-> turns out i did not making this easy for myself, and now i have nightmare routing, 4 of pins are basically just landlocked and i cant move to the second layer cuz i alr have traces going next to the pins. i did most of the routing fine but these 4 pins are annoying asf and i spent way too much time trying to route those 
+
+
+<img width="505" height="636" alt="Screenshot from 2026-08-26 13-45-38" src="https://github.com/user-attachments/assets/9bab4824-f693-4f02-b771-1be5c08c436b" />
+<img width="844" height="817" alt="Screenshot from 2026-08-26 13-35-17" src="https://github.com/user-attachments/assets/f29a8051-5541-4ff4-b424-0edc0f9e3186" />
+<img width="844" height="817" alt="Screenshot from 2026-08-26 13-30-05" src="https://github.com/user-attachments/assets/e2b6583b-226b-436d-9738-facd39420d02" />
+<img width="844" height="817" alt="Screenshot from 2026-08-26 13-26-14" src="https://github.com/user-attachments/assets/54ee858e-0a00-4192-b9d7-b149c263dc58" />
+<img width="844" height="817" alt="Screenshot from 2026-08-26 13-18-07" src="https://github.com/user-attachments/assets/29e00a73-3887-4011-8f37-fc745708a735" />
+<img width="700" height="635" alt="Screenshot from 2026-08-26 13-00-02" src="https://github.com/user-attachments/assets/cfbccf5b-d9db-4871-8f23-ad5e094b6716" />
+
+
+
+**Total time spent: 3h**
