@@ -42,7 +42,26 @@ title: "stm dev board"
 <img width="844" height="817" alt="Screenshot from 2026-08-26 13-26-14" src="https://github.com/user-attachments/assets/54ee858e-0a00-4192-b9d7-b149c263dc58" />
 <img width="844" height="817" alt="Screenshot from 2026-08-26 13-18-07" src="https://github.com/user-attachments/assets/29e00a73-3887-4011-8f37-fc745708a735" />
 <img width="700" height="635" alt="Screenshot from 2026-08-26 13-00-02" src="https://github.com/user-attachments/assets/cfbccf5b-d9db-4871-8f23-ad5e094b6716" />
-
-
-
 **Total time spent: 3h**
+
+
+
+# aug 27 routing v2 + v3
+
+-> i got my routing un-gridlocked, then i messed up and got it gridlocked again so i redid it. i deleted all the traces and vias from the entire left side of the pcb
+
+ -> i figured out a way to get the pins to reach by making my board bigger, then got annoyed at all the times i ran into traces on the back so i had to move around vias till i got that right. 
+
+ -> i deleted the right side of all the traces and vias, then re did all the routing for there i had some issues  with pin 2 and 3 where they got locked in wernt able to get connected 
+
+-> i added some silkscreen and some qol improvements. 
+
+> <img width="507" height="688" alt="Screenshot from 2026-08-27 18-23-09" src="https://github.com/user-attachments/assets/d2b653b4-2800-4793-850a-466259c13fa5" />
+<img width="437" height="545" alt="Screenshot from 2026-08-27 17-55-28" src="https://github.com/user-attachments/assets/e856ec91-c853-411e-897d-03511298ee26" />
+<img width="257" height="239" alt="Screenshot from 2026-08-27 17-52-01" src="https://github.com/user-attachments/assets/53f194e2-97a8-4d17-8dca-3c8526e2c73b" />
+<img width="819" height="732" alt="Screenshot from 2026-08-27 17-36-52" src="https://github.com/user-attachments/assets/c4803ca6-4d7f-4400-ab0f-e0e93e786386" />
+<img width="623" height="748" alt="Screenshot from 2026-08-27 17-31-48" src="https://github.com/user-attachments/assets/441ecc60-c978-4e1e-8225-0e1c8399dcde" />
+
+<img width="884" height="865" alt="Screenshot from 2026-08-27 17-07-18" src="https://github.com/user-attachments/assets/3206deca-a14a-43d3-b892-e145f43b0357" />
+
+**Total time spent: 4h**
