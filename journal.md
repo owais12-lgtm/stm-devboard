@@ -1,5 +1,6 @@
 ---
 title: "stm dev board"
+total time: "12 hours"
 ---
 
 # aug 24 schematic 
