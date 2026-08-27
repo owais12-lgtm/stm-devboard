@@ -32,6 +32,8 @@ Flashing via DFU:
     rdfu write --start-address 0x08000000 target/thumbv6m-none-eabi/release/stm32.bin (or similar command for an alternative dfu utility)
 
 
+# render
+<img width="723" height="868" alt="image" src="https://github.com/user-attachments/assets/08a6ef88-bc2d-49a8-b53c-e866744901c9" />
 
 
    
