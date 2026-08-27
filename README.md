@@ -1,7 +1,7 @@
 # STM devboard 
 
 
-This is an STM32F042F6Px development board designed with GPIO pins, buttons, and USB-C, along with a buncha other features 
+This is an STM32F042F6Px development board designed with GPIO pins, buttons, and USB-C, along with a buncha other features. the firmware included in the firmware folder is temp firmware and it may or may not work. 
 
 
 
@@ -28,8 +28,8 @@ This step assumes you are connected via SWD debugger. If you want to flash the f
 Flashing via DFU:
 
     cargo build --release
-    cargo objcopy --release --bin stm32-blinky -- -O binary target/thumbv6m-none-eabi/release/stm32-blinky.bin
-    rdfu write --start-address 0x08000000 target/thumbv6m-none-eabi/release/stm32-blinky.bin (or similar command for an alternative dfu utility)
+    cargo objcopy --release --bin stm32-blinky -- -O binary target/thumbv6m-none-eabi/release/stm32.bin
+    rdfu write --start-address 0x08000000 target/thumbv6m-none-eabi/release/stm32.bin (or similar command for an alternative dfu utility)
 
 
 
