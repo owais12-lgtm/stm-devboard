@@ -11,6 +11,7 @@ Features
     SWD header (SWDIO, SWCLK, 3.3V, GND)
     GPIO headers — all available pins broken out
 
+# Usage 
 
     Clone and open the firmware/ folder 
     Install the Rust toolchain and the thumbv6m-none-eabi target (rustup target add thumbv6m-none-eabi)
