@@ -1,3 +1,6 @@
+# STM devboard 
+
+
 This is an STM32F042F6Px development board designed with GPIO pins, buttons, and USB-C, along with a buncha other features 
 
 
