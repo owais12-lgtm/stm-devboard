@@ -43,7 +43,9 @@ total time: "12 hours"
 <img width="844" height="817" alt="Screenshot from 2026-08-26 13-26-14" src="https://github.com/user-attachments/assets/54ee858e-0a00-4192-b9d7-b149c263dc58" />
 <img width="844" height="817" alt="Screenshot from 2026-08-26 13-18-07" src="https://github.com/user-attachments/assets/29e00a73-3887-4011-8f37-fc745708a735" />
 <img width="700" height="635" alt="Screenshot from 2026-08-26 13-00-02" src="https://github.com/user-attachments/assets/cfbccf5b-d9db-4871-8f23-ad5e094b6716" />
-**Total time spent: 3h**
+
+
+**Total time spent: 4h**
 
 
 
