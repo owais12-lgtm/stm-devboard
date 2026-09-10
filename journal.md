@@ -45,7 +45,7 @@ total time: "14 hours"
 <img width="700" height="635" alt="Screenshot from 2026-08-26 13-00-02" src="https://github.com/user-attachments/assets/cfbccf5b-d9db-4871-8f23-ad5e094b6716" />
 
 
-**Total time spent: 4h**
+**Total time spent: 3h**
 
 
 
